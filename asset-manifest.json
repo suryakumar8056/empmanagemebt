@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/empmanagemebt/static/css/main.a83aa62b.css",
+    "main.js": "/empmanagemebt/static/js/main.bcbeed15.js",
+    "static/js/787.edb4389a.chunk.js": "/empmanagemebt/static/js/787.edb4389a.chunk.js",
+    "index.html": "/empmanagemebt/index.html",
+    "main.a83aa62b.css.map": "/empmanagemebt/static/css/main.a83aa62b.css.map",
+    "main.bcbeed15.js.map": "/empmanagemebt/static/js/main.bcbeed15.js.map",
+    "787.edb4389a.chunk.js.map": "/empmanagemebt/static/js/787.edb4389a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83aa62b.css",
+    "static/js/main.bcbeed15.js"
+  ]
+}
